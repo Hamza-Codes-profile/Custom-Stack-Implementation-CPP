@@ -119,7 +119,7 @@ class NumberStack{
 		}
 };
 int main(){
-	string VUID = "BC1234567890";
+	string VUID = "BC123456789";
 	int idLastDigit = VUID[VUID.length()-1] - '0';
 	NumberStack s;
 	cout<<"**********************************************"<<endl;
