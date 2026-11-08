@@ -45,7 +45,7 @@ Memory deallocation separates responsibilities cleanly. The passive `Node` struc
 ## Sample Output Preview
 
 ```text
-VU ID: BC250411080
+VU ID: BC123456789
 Numbers pushed into stack: 0, 18, 23, 29, 41, 45
 Total Prime Numbers: 3
 Sum of Prime Numbers: 93
